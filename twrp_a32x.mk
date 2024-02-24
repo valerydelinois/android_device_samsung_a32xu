@@ -35,7 +35,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/a32x/recove
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_a32x
 PRODUCT_DEVICE := a32x
-PRODUCT_MODEL := SM-A326U
+PRODUCT_MODEL := SM-A326K
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
